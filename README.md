@@ -2,7 +2,7 @@
 
 A production-style, two-tier web application featuring a Python Flask backend and a MySQL database. This project demonstrates full infrastructure provisioning, containerization, and an automated CI/CD pipeline deployed on cloud infrastructure.
 
-(https://github.com/prashantgohel321/DevOps-Project-Two-Tier-Flask-App). My work focused on provisioning the cloud infrastructure, resolving build and runtime constraints, and building the automated deployment pipeline.*
+My work focused on provisioning the cloud infrastructure, resolving build and runtime constraints, and building the automated deployment pipeline.*
 
 ---
 
